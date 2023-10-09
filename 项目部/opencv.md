@@ -1,12 +1,67 @@
 # OpenCv
 
+## 阅读前需要了解的知识
+
+## Cmake使用
+
+对于很多同学来讲，Cmake是个很陌生的概念，实际上，Cmake在跨平台方面有着巨大的左右，虽然写CMakeLists很麻烦，但是对于跨平台是十分舒服的，也不需要怎么配置，环境只要装的好，_**find\_package**_一下就行，格外的舒服，那么下面来介绍一下Cmake的常见用法，编写的话参照别人的项目去模仿即可，这边教你如何使用Cmake项目
+
+首先找到最外层的\***CMakeLists**文件，重点来了(为什么是最外面的，难道里面还有吗)当然，里面还可以编写小模块，所以找到最外层的，建议新建build文件夹
+
+```shell
+mkdir build
+cd build
+```
+
+然后使用cmake一下，CMakeLists所在的位置
+
+```shell
+cmake ../
+```
+
+然后cmake没有错误后，例如
+
+```shell
+set(PROJECT_NAME "video")#设置项目名
+```
+
+找到项目名
+
+使用
+
+```shell
+make video -j
+```
+
+等待代码编译完成
+
+执行
+
+```shell
+./video
+```
+
+即可运行
+
+如果要改代码怎么办呢，很简单
+
+执行
+
+```shell
+make clean
+然后再
+make video -j
+```
+
+即可你学废了嘛
+
 ## C++版
 
 ### 1.1 读取摄像头并保存图片
 
 文件名_**video.cpp**_
 
-```cpp
+```c++
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
