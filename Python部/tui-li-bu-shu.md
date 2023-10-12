@@ -23,6 +23,21 @@ results.show()#展示
 results.save()#保存
 ```
 
+### opencv读取图片
+
+老样子替换图片路径和模型路径
+
+```python
+import torch
+import cv2
+
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='model.pt', device=0)  # local model
+img = cv2.imread('img.jpg')[..., ::-1]  # OpenCV image (BGR to RGB)
+# Inference
+results = model(img)
+results.show()
+```
+
 ## 飞浆框架
 
 ### fastdeploy
