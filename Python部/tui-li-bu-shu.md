@@ -8,7 +8,7 @@
 
 ## Pytorch框架
 
-pytorch框架用自己的模型进行推理
+pytorch框架用自己的模型进行推理,修改path路径和图片路径即可
 
 ```python
 import torch
