@@ -26,6 +26,10 @@
 
 [力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台](https://leetcode.cn/)
 
+### 代码随想录
+
+[代码随想录 (programmercarl.com)](https://www.programmercarl.com/)
+
 ## 高阶
 
 ### codeforces
