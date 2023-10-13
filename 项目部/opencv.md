@@ -79,7 +79,7 @@ endif()
 
 文件名\_**video.cpp**\_
 
-```c++
+```cpp
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
