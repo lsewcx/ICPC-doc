@@ -4,7 +4,7 @@
 
 ## Cmake使用
 
-对于很多同学来讲，Cmake是个很陌生的概念，实际上，Cmake在跨平台方面有着巨大的左右，虽然写CMakeLists很麻烦，但是对于跨平台是十分舒服的，也不需要怎么配置，环境只要装的好，_**find\_package**_一下就行，格外的舒服，那么下面来介绍一下Cmake的常见用法，编写的话参照别人的项目去模仿即可，这边教你如何使用Cmake项目
+对于很多同学来讲，Cmake是个很陌生的概念，实际上，Cmake在跨平台方面有着巨大的左右，虽然写CMakeLists很麻烦，但是对于跨平台是十分舒服的，也不需要怎么配置，环境只要装的好，\_**find\_package**\_一下就行，格外的舒服，那么下面来介绍一下Cmake的常见用法，编写的话参照别人的项目去模仿即可，这边教你如何使用Cmake项目
 
 首先找到最外层的\***CMakeLists**文件，重点来了(为什么是最外面的，难道里面还有吗)当然，里面还可以编写小模块，所以找到最外层的，建议新建build文件夹
 
@@ -55,11 +55,29 @@ make video -j
 
 即可你学废了嘛
 
+## Cmake基础OpenCv配置
+
+### windows配置
+
+将lib的位置和opencv\_dir的位置改掉就行
+
+```cmake
+if(WIN64)
+    set(OpenCV_DIR E:/opencv/opencv/build)
+endif()    
+find_package(OpenCV REQUIRED)
+
+if (OpenCV_FOUND)
+    target_include_directories(Pytorch PUBLIC ${OpenCV_INCLUDE_DIRS})
+    target_link_libraries(Pytorch "E:/opencv/opencv/build/x64/vc15/lib/opencv_world455.lib")
+endif()
+```
+
 ## C++版
 
 ### 1.1 读取摄像头并保存图片
 
-文件名_**video.cpp**_
+文件名\_**video.cpp**\_
 
 ```c++
 #include <opencv2/opencv.hpp>
