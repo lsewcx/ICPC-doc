@@ -4,6 +4,7 @@
 * [使用须知](shi-yong-xu-zhi.md)
 * [项目](xiang-mu.md)
 * [Java](java.md)
+* [linux系统入门](linux-xi-tong-ru-men.md)
 * [运维](yun-wei.md)
 * [Conan](conan.md)
 * [OpenCv](opencv.md)
