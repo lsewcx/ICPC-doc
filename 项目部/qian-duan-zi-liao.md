@@ -34,3 +34,5 @@
 ## nginx配置文件自动生成
 
 https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
+
+[dunwu/nginx-tutorial: 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。 (github.com)](https://github.com/dunwu/nginx-tutorial)
