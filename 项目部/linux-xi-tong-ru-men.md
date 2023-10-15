@@ -48,27 +48,13 @@ debian： ubuntu kali 国产linux 内核 5.10 版本新 人工智能 自动驾�
 
 suse： opensuse suse企业版
 
-## 2.centos系统的安装
+**ubuntu**:用的最多的
 
-ios镜像下载地址：
+## 2.centos系统的安装（注意！！！centos已经停止更新，建议换成ubuntu）
 
-https://mirrors.tuna.tsinghua.edu.cn/centos-vault/7.8.2003/isos/x86\_64/CentOS-7-x86\_64-DVD-2003.iso
+ubuntu ios镜像下载地址：
 
-install 安装
-
-test
-
-media 媒体 媒介 光盘
-
-lvm：逻辑卷
-
-el7: enterprise linux 7
-
-linux远程控制：
-
-telnet协议： 明文
-
-ssh协议： 加密
+[https://mirrors.tuna.tsinghua.edu.cn/centos-vault/7.8.2003/isos/x86\_64/CentOS-7-x86\_64-DVD-2003.iso](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/23.10/)
 
 ## 3.远程连接linux
 
