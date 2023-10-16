@@ -4,6 +4,10 @@
 
 ![](https://raw.githubusercontent.com/lsewcx/markdown/main/img/202310151159875.png)
 
+## 宝塔linux
+
+## [宝塔面板下载，免费全能的服务器运维软件 (bt.cn)](https://www.bt.cn/new/download.html)
+
 ## 在线自动生成nginx配置文件
 
 https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
