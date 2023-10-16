@@ -17,7 +17,10 @@
 * #### [Bootstrap中文网 (bootcss.com)](https://www.bootcss.com/)
 * #### [MDN Web Docs (mozilla.org)](https://developer.mozilla.org/zh-CN/)
 * #### [Sass世界上最成熟、稳定和强大的CSS扩展语言 | Sass中文网](https://www.sass.hk/)
-* #### [http://pro.arco.design/](http://pro.arco.design/)
+* #### [Quasar Framework 中文网 (quasarchs.com)](http://www.quasarchs.com/)
+* #### [cssinspirationguide - csc inspiration guide online (chokcoco.github.io)](https://chokcoco.github.io/CSS-Inspiration/#/)
+* #### [Naive UI: 一个 Vue 3 组件库](https://www.naiveui.com/zh-CN/os-theme)
+* #### [OSRC-Open Source Runtime Community](https://www.osrc.com/dashboard)
 
 ## 构建工具
 
