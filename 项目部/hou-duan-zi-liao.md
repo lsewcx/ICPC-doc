@@ -4,6 +4,15 @@
 
 * ### [Java 面试指南 | JavaGuide(Java面试 + 学习指南)](https://javaguide.cn/)
 * ### [项目扩展 | RuoYi](http://doc.ruoyi.vip/ruoyi-vue/document/xmkz.html#%E5%90%8E%E5%8F%B0%E6%89%A9%E5%B1%95)
+* ### [smartboot 开源组织 (gitee.io)](https://smartboot.gitee.io/)
+
+## 物联网平台
+
+* #### [FastBee文档](https://fastbee.cn/doc/)
+
+## MQTT免费服务器
+
+* #### [EMQX: 大规模分布式 MQTT 消息服务器](https://www.emqx.io/zh)
 
 ## 工具
 
