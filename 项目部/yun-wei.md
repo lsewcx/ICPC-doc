@@ -8,6 +8,24 @@
 
 ## [宝塔面板下载，免费全能的服务器运维软件 (bt.cn)](https://www.bt.cn/new/download.html)
 
+## 内网穿透
+
+## [ngrok | Unified Ingress Platform for Developers](https://ngrok.com/)
+
+使用方法
+
+将windows下载包下载下来以后，输入
+
+```shell
+ngrok config add-authtoken 你的密匙
+```
+
+然后输入你的项目所在的端口号,建议使用cmd进行使用
+
+```shell
+.\ngrok http 端口号
+```
+
 ## 在线自动生成nginx配置文件
 
 https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
