@@ -6,6 +6,8 @@
 
 ### [首页 · 魔搭社区 (modelscope.cn)](https://www.modelscope.cn/home)
 
+### [Hugging Face – The AI community building the future.](https://huggingface.co/)
+
 ## 1.数据集制作
 
 ### 1.1百度飞浆的自动化数据集平台
