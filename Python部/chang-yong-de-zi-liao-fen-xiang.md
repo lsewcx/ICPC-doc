@@ -2,6 +2,10 @@
 
 ## 社团总结的常见报错[https://lsewcx.gitbook.io/chang-jian-bao-cuo/](https://lsewcx.gitbook.io/chang-jian-bao-cuo/)
 
+## AI网站
+
+### [首页 · 魔搭社区 (modelscope.cn)](https://www.modelscope.cn/home)
+
 ## 1.数据集制作
 
 ### 1.1百度飞浆的自动化数据集平台
