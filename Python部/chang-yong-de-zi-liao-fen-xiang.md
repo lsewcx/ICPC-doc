@@ -2,6 +2,10 @@
 
 ## 社团总结的常见报错[https://lsewcx.gitbook.io/chang-jian-bao-cuo/](https://lsewcx.gitbook.io/chang-jian-bao-cuo/)
 
+## 学习深度学习资料
+
+### [《动手学深度学习》 — 动手学深度学习 2.0.0 documentation (d2l.ai)](https://zh-v2.d2l.ai/index.html)
+
 ## AI网站
 
 ### [首页 · 魔搭社区 (modelscope.cn)](https://www.modelscope.cn/home)
