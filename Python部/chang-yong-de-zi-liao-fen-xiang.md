@@ -12,6 +12,10 @@
 
 ### [Hugging Face – The AI community building the future.](https://huggingface.co/)
 
+## 租服务器网站
+
+### [Featurize](https://featurize.cn/)价格比较友好
+
 ## 1.数据集制作
 
 ### 1.1百度飞浆的自动化数据集平台
