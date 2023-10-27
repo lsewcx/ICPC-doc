@@ -16,6 +16,8 @@
 
 ### [Featurize](https://featurize.cn/)价格比较友好
 
+### [AutoDL算力云 | 弹性、好用、省钱。租GPU就上AutoDL](https://www.autodl.com/home)
+
 ## 1.数据集制作
 
 ### 1.1百度飞浆的自动化数据集平台
