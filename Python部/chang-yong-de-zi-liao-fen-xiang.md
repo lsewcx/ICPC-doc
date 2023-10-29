@@ -6,6 +6,8 @@
 
 ### [《动手学深度学习》 — 动手学深度学习 2.0.0 documentation (d2l.ai)](https://zh-v2.d2l.ai/index.html)
 
+### [OpenMMLab (github.com)](https://github.com/open-mmlab)一个可以自己添加源代码修改学习的深度学习框架
+
 ## AI网站
 
 ### [首页 · 魔搭社区 (modelscope.cn)](https://www.modelscope.cn/home)
