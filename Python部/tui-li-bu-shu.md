@@ -285,10 +285,6 @@ if __name__=="__main__":
     res = get_result(or_img,outbox)
     print(res)
     # cv2.imwrite('res.jpg',or_img)
-    
-    
-
-
 ```
 
 ## 代码示例
